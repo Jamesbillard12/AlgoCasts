@@ -1,0 +1,24 @@
+{
+	"name": "algocasts",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {
+		"global": "^4.3.2",
+		"jest": "^23.5.0"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Jamesbillard12/AlgoCasts.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Jamesbillard12/AlgoCasts/issues"
+	},
+	"homepage": "https://github.com/Jamesbillard12/AlgoCasts#readme"
+}
