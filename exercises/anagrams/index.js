@@ -47,7 +47,5 @@ function createRawOrderedString(str) {
 
 function anagrams(stringA, stringB) {
 	return createRawOrderedString(stringA) === createRawOrderedString(stringB)
-		? true
-		: false
 }
 module.exports = anagrams
